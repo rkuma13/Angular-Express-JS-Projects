@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Neeraj",
+      "mailId": "abc@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Rajan",
+      "mailId": "Rajan@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "name": "Shashank",
+      "mailId": "Shashank@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": 4,
+      "name": "Rohit",
+      "mailId": "Rohit@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "5",
+      "name": "Ramesh chouhan",
+      "mailId": "Ramesh@gmail.com",
+      "password": "qwe"
+    },
+    {
+      "name": "Ramesh",
+      "mailId": "aandnhbc@gmail.com",
+      "password": "12345633",
+      "id": "VpRisQj"
+    },
+    {
+      "name": "Rahul",
+      "mailId": "kmk@gmail.com",
+      "password": "123ert",
+      "id": 7
+    },
+    {
+      "name": "Ramesh",
+      "mailId": "kkaka@gmail.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "name": "Ramesh",
+      "mailId": "aandnhbc@gmail.com",
+      "password": "12345633",
+      "id": "ANRA0os"
+    }
+  ]
+}
